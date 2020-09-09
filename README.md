@@ -1,6 +1,12 @@
-## Welcome to Insurium: Insurance Tracking Website for Landlords and Property Managers
+## Welcome to Insurium: Insurance Tracking Website for Landlords, Property Managers, Tenants and Homeowners
 
-##You can use the [editor on GitHub](https://github.com/abe3529/insurium.github.io/edit/master/README.md) to maintain and preview the content for your website in ##Markdown files.
+This is the main page for insurim.  This page contains the login/register page and descriptions for different types of users similar to
+https://homewarranty.firstam.com/#login page
+
+The main bullets for now will be Landlords, Property Managers, Tenants and Homeowners
+later we will add bullets for businesses, insurance providers and real estate professionals
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
