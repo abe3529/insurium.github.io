@@ -3,8 +3,89 @@
 This is the main page for insurim.  This page contains the login/register page and descriptions for different types of users similar to
 https://homewarranty.firstam.com/#login page
 
+
 The main bullets for now will be Landlords, Property Managers, Tenants and Homeowners
 later we will add bullets for businesses, insurance providers and real estate professionals
+
+
+
+Landlords             Businesses   
+Property Managers     Insurance Providers
+Tenants               Real Estate Pros
+Homeowners
+
+Click on Landlord and goes to Landlord landing page
+
+Login/register
+--------------------------------------------
+Registration Page
+First Name    
+Last Name
+Company Name
+Address
+User Name
+Email
+Phone Number
+User Name
+Password
+
+after logging in
+--------------------------------------------
+Dashboard
+
+Property Insurance Information
+Add Property
+
+Property Address    Insurance Provider   Coverage Amount  Liability Amount  Deductible  Expiration Date Premium  Agent  Agent Email
+
+
+
+Tenant Insurance Information
+Add Tenant
+
+Tenant Name   Property Address    Tenant Insurance    Provider   Expiration Date
+                                  Send Email Reminder to tenant
+
+
+Property Claim Information
+Property Address    Insurance Provider   Claim Date 
+
+------------------------------------------------------------
+When you Click on Property Address in Landlord
+
+Detailed Policy Information   Send email to agent to request copy of policy
+Insurance Company
+Policy Number
+Insured name
+Insured Address
+Agent Name
+Agent Address
+Agent Email
+Agent Phone Number
+Coverage Details
+Add 15 blank fields (to be completed)
+Premium
+Renewal Date
+
+-------------------------------------------
+When you Click on Property Address in Tenant
+
+Detailed Policy Information   Send email to agent to request copy of policy
+Insurance Company
+Policy Number
+Insured Name
+Insured Address
+Agent Name
+Agent Address
+Agent Email
+Agent Phone Number
+Coverage Details
+Add 15 blank fields (to be completed)
+Premium
+Renewal Date
+
+
+
 
 
 
